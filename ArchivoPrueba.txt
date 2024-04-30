@@ -1,0 +1,42 @@
+int entero1;
+int entero2, entero3, entero4;
+int entero5 = 10;
+int entero6 = 10, entero7 = 20, entero8 = 30;
+final int entero9 = 10;
+
+int[] arregloEnteros1;
+int[] arregloEnteros2, arregloEnteros3, arregloEnteros4;
+int[] arregloEnteros5 = new int [3];
+int[] arregloEnteros6 = new int[4], arregloEnteros7 = new int[5];
+int[] arregloEnteros8 = {1, 2, 3, 4, 5};
+int[] arregloEnteros9 = {1, 2, 3, 4, 5}, arregloEnteros10 = {6, 7, 8, 9, 10};
+final int[] arregloEnteros11 = {1, 2, 3, 4, 5};
+
+String cadena1;
+String cadena2, cadena3, cadena4;
+String cadena5 = "Hola mundo";
+String cadena6 = "Hola1", cadena7 = "Hola2";
+
+String[] arregloCadena1;
+String[] arregloCadena2, arregloCadena3, arregloCadena4;
+String[] arregloCadena5 = new String[3];
+String[] arregloCadena6 = new String[4], arregloCadena7 = new String[5];
+String[] arregloCadena8 = {"hola", "es", "arreglo"};
+String[] arregloCadena9 = {"hola1", "es1", "arreglo1"}, arregloCadena10 = {"hola2", "es2", "arreglo2"};
+
+
+float decimal1;
+float decimal2, decimal3, decmal4;
+float decimal5 = 10.0f;
+float decimal6 = 10.0f, decimal7 = 20.0f, decimal8 = 30.0f;
+
+float[] arregloDecimal1;
+float[] arregloDecimal2, arregloDecimal3, arregloDecimal4;
+float[] arregloDecimal5 = new float [3];
+float[] arregloDecimal6 = new float[4], arregloDecimal7 = new float[5];
+float[] arregloDecimal8 = {1.1f, 1.1f, 1.1f, 1.1f, 1.1f, 1.1f, 1.1f};
+float[] arregloDecimal9 = {1.1f, 2.1f, 3.1f, 4.1f, 5.1f}, arregloDecimal10 = {6.1f, 7.1f, 8.1f, 9.1f, 10.1f};
+
+
+
+
