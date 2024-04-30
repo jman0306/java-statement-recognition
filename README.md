@@ -2,13 +2,13 @@
 ## Fundamentals of Computer Mathematics Project
 Java variable declaration recognizer program. The program should read the input data, a series of variable declarations, and should output a set of statistics related to the declared variables and their types.
 
-## FUNCIONALIDAD
+## Funcionalidad
 
 El programa identifica variables en lenguaje Java 1.8 (SE 8), de un documento TXT que se recibe al iniciar el programa, a través de una pantalla emergente donde se debe seleccionar el archivo que se desea analizar. Dentro de la carpeta se incluye un archivo llamado 'ArchivoPrueba.txt' que es para realizar un ejemplo de prueba del programa. 
 El programa instala automáticamente las librerías que va a utilizar (es necesario tener instalado Python y pip en tu sistema para que el programa funcione).
 Para volver a correrlo es necesario BORRAR EL ARCHIVO "JAVA.txt" que se crea en la carpeta donde esta el programa.
 
-## RESULTADO
+## Resultado
 
 El programa dará un output en la terminal que mostrará lo siguiente:
 - Número total de variables declaradas.
